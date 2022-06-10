@@ -1,4 +1,4 @@
-my first readme
+directory readme
 
 
 new readme update
